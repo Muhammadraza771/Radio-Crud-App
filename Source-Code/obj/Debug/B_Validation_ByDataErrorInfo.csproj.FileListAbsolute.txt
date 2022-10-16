@@ -1,0 +1,63 @@
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\bin\Debug\B_Validation_ByDataErrorInfo.exe.config
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\bin\Debug\B_Validation_ByDataErrorInfo.exe
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\bin\Debug\B_Validation_ByDataErrorInfo.pdb
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\MainWindow.g.cs
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\App.g.cs
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\B_Validation_ByDataErrorInfo_MarkupCompile.cache
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\B_Validation_ByDataErrorInfo_MarkupCompile.lref
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\MainWindow.baml
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\B_Validation_ByDataErrorInfo.g.resources
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\B_Validation_ByDataErrorInfo.Properties.Resources.resources
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\B_Validation_ByDataErrorInfo.csproj.GenerateResource.cache
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\B_Validation_ByDataErrorInfo.csproj.CoreCompileInputs.cache
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\B_Validation_ByDataErrorInfo.exe
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\B_Validation_ByDataErrorInfo.pdb
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\bin\Debug\RecordDB.mdf
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\bin\Debug\RecordDB_log.ldf
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\B_Validation_ByDataErrorInfo_Content.g.cs
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\afterlogin.g.cs
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\afterlogin.baml
+C:\Users\Raza\Desktop\B_Validation_ByDataErrorInfo\obj\Debug\B_Validation_ByDataErrorInfo.csproj.AssemblyReference.cache
+C:\Users\Raza\Desktop\majid\bin\Debug\RecordDB.mdf
+C:\Users\Raza\Desktop\majid\bin\Debug\RecordDB_log.ldf
+C:\Users\Raza\Desktop\majid\bin\Debug\B_Validation_ByDataErrorInfo.exe.config
+C:\Users\Raza\Desktop\majid\bin\Debug\B_Validation_ByDataErrorInfo.exe
+C:\Users\Raza\Desktop\majid\bin\Debug\B_Validation_ByDataErrorInfo.pdb
+C:\Users\Raza\Desktop\majid\obj\Debug\B_Validation_ByDataErrorInfo.csproj.AssemblyReference.cache
+C:\Users\Raza\Desktop\majid\obj\Debug\afterlogin.g.cs
+C:\Users\Raza\Desktop\majid\obj\Debug\MainWindow.g.cs
+C:\Users\Raza\Desktop\majid\obj\Debug\App.g.cs
+C:\Users\Raza\Desktop\majid\obj\Debug\B_Validation_ByDataErrorInfo_Content.g.cs
+C:\Users\Raza\Desktop\majid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Raza\Desktop\majid\obj\Debug\B_Validation_ByDataErrorInfo_MarkupCompile.cache
+C:\Users\Raza\Desktop\majid\obj\Debug\B_Validation_ByDataErrorInfo_MarkupCompile.lref
+C:\Users\Raza\Desktop\majid\obj\Debug\afterlogin.baml
+C:\Users\Raza\Desktop\majid\obj\Debug\MainWindow.baml
+C:\Users\Raza\Desktop\majid\obj\Debug\B_Validation_ByDataErrorInfo.g.resources
+C:\Users\Raza\Desktop\majid\obj\Debug\B_Validation_ByDataErrorInfo.Properties.Resources.resources
+C:\Users\Raza\Desktop\majid\obj\Debug\B_Validation_ByDataErrorInfo.csproj.GenerateResource.cache
+C:\Users\Raza\Desktop\majid\obj\Debug\B_Validation_ByDataErrorInfo.csproj.CoreCompileInputs.cache
+C:\Users\Raza\Desktop\majid\obj\Debug\B_Validation_ByDataErrorInfo.exe
+C:\Users\Raza\Desktop\majid\obj\Debug\B_Validation_ByDataErrorInfo.pdb
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\bin\Debug\RecordDB.mdf
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\bin\Debug\RecordDB_log.ldf
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\bin\Debug\B_Validation_ByDataErrorInfo.exe.config
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\bin\Debug\B_Validation_ByDataErrorInfo.exe
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\bin\Debug\B_Validation_ByDataErrorInfo.pdb
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\B_Validation_ByDataErrorInfo.csproj.AssemblyReference.cache
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\afterlogin.g.cs
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\MainWindow.g.cs
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\App.g.cs
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\B_Validation_ByDataErrorInfo_Content.g.cs
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\B_Validation_ByDataErrorInfo_MarkupCompile.cache
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\B_Validation_ByDataErrorInfo_MarkupCompile.lref
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\afterlogin.baml
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\MainWindow.baml
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\B_Validation_ByDataErrorInfo.g.resources
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\B_Validation_ByDataErrorInfo.Properties.Resources.resources
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\B_Validation_ByDataErrorInfo.csproj.GenerateResource.cache
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\B_Validation_ByDataErrorInfo.csproj.CoreCompileInputs.cache
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\B_Validation_ByDataErrorInfo.exe
+C:\Users\Raza\Desktop\Majid Khadim Ali\Source-Code\obj\Debug\B_Validation_ByDataErrorInfo.pdb

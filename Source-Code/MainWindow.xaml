@@ -1,0 +1,52 @@
+﻿<Window x:Class="B_Validation_ByDataErrorInfo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:B_Validation_ByDataErrorInfo"
+        mc:Ignorable="d"
+        Title="Majid Khadim Ali" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <local:RegistrationVM/>
+    </Window.DataContext>
+    <Grid Margin="100">
+
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="184.338"/>
+            <ColumnDefinition Width="33.662"/>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="7*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+
+
+        <Label  Grid.Row="0" Grid.Column="0" FontWeight="Bold" Grid.ColumnSpan="2">Enter Admin Credentials</Label>
+
+
+        <Label Grid.Row="1" Grid.Column="0" Margin="150,5,5,5" Grid.ColumnSpan="2">Username</Label>
+        <TextBox x:Name="usernameTextbox" Grid.Row="1" Grid.Column="2" Margin="5,5,10,10" Text="{Binding Username, ValidatesOnDataErrors=True,
+                UpdateSourceTrigger=PropertyChanged}"
+                     ToolTip="{Binding ErrorCollection[Username]}"/>
+
+        <Label Grid.Row="2" Grid.Column="0" Margin="150,5,5,5" Grid.ColumnSpan="2">Password</Label>
+        <TextBox x:Name="passwordTextbox" Grid.Row="2" Grid.Column="2" Margin="5,5,10,10" Text="{Binding Password, ValidatesOnDataErrors=True,
+                UpdateSourceTrigger=PropertyChanged}"
+                     ToolTip="{Binding ErrorCollection[Password]}"/>
+
+
+        <Button x:Name="loginbutton" Height="30" Width="70" Margin="68,5,12,5" Grid.Column="2" Grid.Row="3" Click="Button_Click" Background="#FFF5EDED" BorderBrush="#FFF9EEEE" MouseEnter="Button_MouseEnter" MouseLeave="loginbutton_MouseLeave">Login</Button>
+        <Grid x:Name="navbarGrid" Height="65" Margin="-100,-98,-99,0" VerticalAlignment="Top" RenderTransformOrigin="0.258,0.574" Grid.ColumnSpan="5" Background="#FF2784B9" Visibility="Visible"/>
+
+    </Grid>
+</Window>
